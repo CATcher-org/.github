@@ -1,5 +1,5 @@
 ### Summary:
-Fixes [#Issue number]
+Fixes #[Issue number]
 
 ### Changes Made:
 * [Description of the changes made in your PR]
