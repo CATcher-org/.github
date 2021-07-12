@@ -7,4 +7,5 @@ Fixes #[Issue number]
 ### Proposed Commit Message:
 ```
 Commit message to be used when the PR is merged
+(NOTE: Wrap the body at 72 characters)
 ```
